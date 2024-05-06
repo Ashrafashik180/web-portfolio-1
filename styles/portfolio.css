@@ -38,6 +38,18 @@ body {
     text-align: center;
 }
 
+.info-title{
+    font-size: 20px;
+    font-weight: bold;
+}
+.info-description{
+    font-size: 16px;
+    font-weight: normal;
+    color: darkgray;
+} 
+
+
+
 
 /* shared style close  */
 
@@ -130,3 +142,17 @@ main{
 .What-i-do{ 
    padding: 130px;
 }
+
+/* skill info styles start */
+
+.skills-info-container{
+    display: flex;
+}
+.skills-info{
+    padding: 10px;
+    max-width: 267px;
+    height: 377px;
+}
+
+
+/* skill info styles close */
